@@ -1,0 +1,6 @@
+{
+  "require": {
+    "wixel/gump": "^1.4",
+    "katzgrau/klogger": "dev-master"
+  }
+}

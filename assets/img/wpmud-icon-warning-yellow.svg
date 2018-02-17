@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>wpmud-icon-warning-yellow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wpmud-icon-warning-yellow">
+            <circle id="circle" fill="#FECF2F" cx="10" cy="10" r="10"></circle>
+            <path d="M11.5,13.5 C11.5,14.3284271 10.8342028,15 10,15 C9.17157288,15 8.5,14.3342028 8.5,13.5 C8.5,12.6715729 9.16579723,12 10,12 C10.8284271,12 11.5,12.6657972 11.5,13.5 Z M11,10.009222 C11,10.5564136 10.5561352,11 10,11 C9.44771525,11 9,10.5490248 9,10.009222 L9,5.99077797 C9,5.44358641 9.44386482,5 10,5 C10.5522847,5 11,5.45097518 11,5.99077797 L11,10.009222 Z" id="exclamation-mark" fill="#333333"></path>
+        </g>
+    </g>
+</svg>

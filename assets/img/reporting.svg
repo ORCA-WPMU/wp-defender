@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="22px" height="19px" viewBox="0 0 22 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_Reporting</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Reports---Disabled" transform="translate(-31.000000, -20.000000)" fill="#333333">
+            <g id="Icon_Reporting" transform="translate(30.000000, 19.000000)">
+                <path d="M1.91666667,16.3809524 L5.58333333,16.3809524 L5.58333333,7.33333333 L1.91666667,7.33333333 L1.91666667,16.3809524 Z M12.9166667,16.3809524 L16.58425,16.3809524 L16.58425,1 L12.9166667,1 L12.9166667,16.3809524 Z M18.4166667,16.3809524 L22.0833333,16.3809524 L22.0833333,3.71428571 L18.4166667,3.71428571 L18.4166667,16.3809524 Z M7.41666667,16.3809524 L11.0833333,16.3809524 L11.0833333,3.71428571 L7.41666667,3.71428571 L7.41666667,16.3809524 Z M22.0833333,18.1904762 L1.91666667,18.1904762 C1.41066667,18.1904762 1,18.5958095 1,19.0952381 C1,19.5946667 1.41066667,20 1.91666667,20 L22.0833333,20 C22.5893333,20 23,19.5946667 23,19.0952381 C23,18.5958095 22.5893333,18.1904762 22.0833333,18.1904762 Z" id="icon-reports"></path>
+            </g>
+        </g>
+    </g>
+</svg>

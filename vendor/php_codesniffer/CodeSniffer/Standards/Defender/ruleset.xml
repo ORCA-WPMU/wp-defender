@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ruleset name="Defender">
+ <description>Security related coding standard.</description>
+</ruleset>
+
+

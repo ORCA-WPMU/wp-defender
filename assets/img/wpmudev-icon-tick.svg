@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>wpmudev-icon-tick</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wpmudev-icon-tick" fill="#888888">
+            <path d="M10,0 C15.5228475,0 20,4.4771525 20,10 C20,15.5228475 15.5228475,20 10,20 C4.4771525,20 0,15.5228475 0,10 C0,4.4771525 4.4771525,0 10,0 Z M6.5963804,9.58526928 C6.17330574,9.23026749 5.54255014,9.28545145 5.18754835,9.70852612 C4.83254655,10.1316008 4.88773052,10.7623564 5.31080518,11.1173582 L9.32690095,14.4872626 L14.5148833,8.304466 C14.8698851,7.88139133 14.8147012,7.25063574 14.3916265,6.89563394 C13.9685518,6.54063215 13.3377962,6.59581611 12.9827944,7.01889078 L9.08038728,11.6695985 L6.5963804,9.58526928 Z"></path>
+        </g>
+    </g>
+</svg>
